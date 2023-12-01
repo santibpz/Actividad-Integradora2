@@ -1,0 +1,11 @@
+Mauricio Tumalán Castillo		| A01369288
+
+Implementación de busqueda de central más cercana
+
+Oswaldo Ilhuicatzi Mendizábal	| A01781988
+
+Implementación de agente viajero
+
+Santiago Benitez Pérez		    | A01782813
+
+Implementación de Prim
